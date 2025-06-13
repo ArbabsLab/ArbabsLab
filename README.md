@@ -1,73 +1,48 @@
-<style>
-  
-  .terminal {
-    background-color: #1e1e1e;
-    color: #00ff9f;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 20px rgba(0,255,160,0.4);
-    position: relative;
-    overflow: hidden;
-  }
+<h1 align="center">Hey, I'm Arbab</h1>
 
-  .terminal::before {
-    content: '';
-    display: block;
-    position: absolute;
-    width: 12px;
-    height: 12px;
-    background-color: #ff5f56;
-    border-radius: 50%;
-    top: 10px;
-    left: 10px;
-    box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
-  }
+###
 
-  .typewriter p {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid #00ff9f;
-    animation: typing 4s steps(40, end), blink 1s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink {
-    50% { border-color: transparent }
-  }
-  
-</style>
-
-<div class="terminal">
-  <div class="typewriter">
-    
-    <p>$ whoami</p>
-    <p>Arbab Husain - CS @ City College of New York</p>
-    <p>$ echo "Full-Stack Developer | Student"</p>
-    <p> Currently building: Fitness Plan Generator</p>
-    <p> Learning: Systems Design, Site Reliability Engineering, DevOps</p>
-    <p> Soccer lover, Calisthenics master in progress, binger</p>
-    
-    <br>
-    <p>$ skills --list</p>
-    <p> Languages: JavaScript, Python, TypeScript, C++, Java</p>
-    <p> Frontend: React, Next.js, Tailwind CSS</p>
-    <p> Backend: Flask, FastAPI, Node.js</p>
-    <p> DB & Infra: PostgreSQL, Convex, Supabase, MongoDB, Docker</p>
-    <p> Tools: Git, Postman, REST APIs</p>
-
-    <br>
-    <p>$ contact --all</p>
-    <p> <a href="https://linkedin.com/in/your-link" style="color: #00ff9f;">LinkedIn</a></p>
-    <p> <a href="mailto:your.email@example.com" style="color: #00ff9f;">Email Me</a></p>
-    <p> <a href="https://your-portfolio.com" style="color: #00ff9f;">Portfolio</a></p>
-
-    <br>
-    <p>$ exit</p>
-    <p>logout</p>
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArbabsLab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=your-username&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArbabsLab/ArbabsLab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArbabsLab/ArbabsLab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArbabsLab/ArbabsLab/output/pacman-contribution-graph.svg">
+</picture>
+
+###
